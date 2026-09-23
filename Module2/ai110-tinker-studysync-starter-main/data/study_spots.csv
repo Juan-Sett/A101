@@ -1,0 +1,11 @@
+id,name,noise_level,distance_miles,wifi_quality,seats_available
+1,Innovation Commons,quiet,0.3,excellent,12
+2,Grand Reading Room,quiet,0.5,good,20
+3,Courtyard Cafe,loud,0.2,basic,8
+4,North Stacks Nook,quiet,1.2,good,4
+5,Engineering Lounge,moderate,0.8,excellent,15
+6,Student Union Tables,loud,0.1,good,25
+7,Rooftop Study Deck,moderate,1.5,basic,6
+8,Basement Carrels,quiet,0.9,basic,10
+9,Group Project Room B,moderate,0.4,excellent,6
+10,24-Hour Annex,quiet,2.0,good,18
